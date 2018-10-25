@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/promise-polyfill/package.json",
+        "bower_components/webcomponentsjs/package.json"
+      ]
+    }
+  }
+}
